@@ -1,0 +1,17 @@
+.right{
+    color: green;
+}
+
+.wrong{
+    color: red;
+}
+
+.right-textbox{
+    border-width: 2px;
+    border-color: green;
+}
+
+.wrong-textbox{
+    border-width: 2px;
+    border-color: red;
+}
